@@ -18,6 +18,8 @@ numpy==1.21.2
 matplotlib==3.4.3
 opencv-python==3.4.8.29
 
+
+
 # if this code doesn't works then check the latest version for `numpy`, `matplotlib`, `opencv-python`
 
 # change `pip install requirements.txt` to `pip install -r requirements.txt` for linux `$ pip install -r requirements.txt --no-index --find-links file:///tmp/packages` 
